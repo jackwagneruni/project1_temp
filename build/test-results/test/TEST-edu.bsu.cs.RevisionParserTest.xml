@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs.RevisionParserTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-09-18T13:47:44.869Z" hostname="JACKS_LAPTOP" time="0.047">
+  <properties/>
+  <testcase name="testParseAnonymousUser()" classname="edu.bsu.cs.RevisionParserTest" time="0.035"/>
+  <testcase name="testParseSingleRevision()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <testcase name="testDetectRedirect()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <testcase name="testNoRedirect()" classname="edu.bsu.cs.RevisionParserTest" time="0.004"/>
+  <testcase name="testParseEmptyRevisions()" classname="edu.bsu.cs.RevisionParserTest" time="0.0"/>
+  <testcase name="testParseMultipleRevisions()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <testcase name="testParseInvalidJson()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

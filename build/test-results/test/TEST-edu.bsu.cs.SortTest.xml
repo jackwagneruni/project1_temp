@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs.SortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-18T13:47:44.921Z" hostname="JACKS_LAPTOP" time="0.001">
+  <properties/>
+  <testcase name="testSortInterface()" classname="edu.bsu.cs.SortTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
