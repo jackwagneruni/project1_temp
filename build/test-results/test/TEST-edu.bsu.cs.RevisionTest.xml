@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs.RevisionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-09-23T13:47:27.534Z" hostname="JACKS_LAPTOP" time="0.006">
+  <properties/>
+  <testcase name="testRevisionWithAnonymousUser()" classname="edu.bsu.cs.RevisionTest" time="0.001"/>
+  <testcase name="testRevisionCreation()" classname="edu.bsu.cs.RevisionTest" time="0.001"/>
+  <testcase name="testRevisionImmutability()" classname="edu.bsu.cs.RevisionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs.RevisionParserTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-09-23T13:47:27.327Z" hostname="JACKS_LAPTOP" time="0.205">
+  <properties/>
+  <testcase name="testParseAnonymousUser()" classname="edu.bsu.cs.RevisionParserTest" time="0.183"/>
+  <testcase name="testParseSingleRevision()" classname="edu.bsu.cs.RevisionParserTest" time="0.003"/>
+  <testcase name="testDetectRedirect()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <testcase name="testNoRedirect()" classname="edu.bsu.cs.RevisionParserTest" time="0.006"/>
+  <testcase name="testParseEmptyRevisions()" classname="edu.bsu.cs.RevisionParserTest" time="0.003"/>
+  <testcase name="testParseMultipleRevisions()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <testcase name="testParseInvalidJson()" classname="edu.bsu.cs.RevisionParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

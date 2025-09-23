@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs.UserInputTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-23T13:47:27.546Z" hostname="JACKS_LAPTOP" time="0.017">
+  <properties/>
+  <testcase name="testUserInput()" classname="edu.bsu.cs.UserInputTest" time="0.017"/>
+  <system-out><![CDATA[Please enter the Wikipedia Article Name: ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

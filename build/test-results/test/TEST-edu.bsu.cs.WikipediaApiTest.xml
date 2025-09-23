@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.bsu.cs.WikipediaApiTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-09-23T13:47:27.602Z" hostname="JACKS_LAPTOP" time="0.96">
+  <properties/>
+  <testcase name="testGetJSONReturnsValidData()" classname="edu.bsu.cs.WikipediaApiTest" time="0.788"/>
+  <testcase name="testURLContainsRequiredParameters()" classname="edu.bsu.cs.WikipediaApiTest" time="0.001"/>
+  <testcase name="testGetJSONConnection()" classname="edu.bsu.cs.WikipediaApiTest" time="0.095"/>
+  <testcase name="testSpecialCharacterEncoding()" classname="edu.bsu.cs.WikipediaApiTest" time="0.073"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
